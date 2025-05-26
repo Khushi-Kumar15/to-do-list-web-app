@@ -6,7 +6,7 @@ Open Terminal or Command Prompt.
 
 Navigate to the project folder:
 
-On Windows: cd C:\Users\khush\Downloads\todo-react-app
+On Windows: cd C:\Users\<user name>\Downloads\todo-react-app
 
 Install dependencies:
 
